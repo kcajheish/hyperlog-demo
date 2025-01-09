@@ -1,5 +1,5 @@
 from hashlib import sha256
-from math import log, sqrt, pow, ceil
+from math import log, sqrt, pow
 
 class HyperLog:
     def __init__(self, p):
